@@ -10,3 +10,23 @@ MERN Stack Developer | Web Developer | Educator
  Pursuing B.Sc. in Computer Science & Engineering (CSE)<br/>
  International Islamic University Chittagong (IIUC)
 </p>
+
+---
+
+## About Me
+
+I am a passionate Computer Science student with a strong interest in modern web technologies.  
+I enjoy building responsive and user-friendly web applications using the MERN stack.  
+Alongside development, I am actively involved in learning new frameworks and improving my problem-solving skills.  
+I also like sharing technical knowledge through educational content and collaborative projects.
+
+---
+
+## Current Activities
+
+- Exploring Next.js and modern React patterns  
+- Working on a tourism-based web application  
+- Improving backend development skills with Node.js and MongoDB  
+- Practicing clean code and project structuring for scalable applications
+
+---
