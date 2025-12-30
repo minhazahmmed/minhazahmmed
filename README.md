@@ -3,7 +3,7 @@
 <h1 align="center">Minhaz Ahmmed</h1>
 
 <h3 align="center">
-MERN Stack Developer | Web Developer | Educator
+MERN Stack Web Developer | Educator
 </h3>
 
 <p align="center">
@@ -30,3 +30,26 @@ I also like sharing technical knowledge through educational content and collabor
 - Practicing clean code and project structuring for scalable applications
 
 ---
+
+## Skills
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
+</p>
+
+### Frontend Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+</p>
+
+### Backend Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+</p>
