@@ -56,18 +56,20 @@ I also like sharing technical knowledge through educational content and collabor
 
 ## Connect With Me
 
-<div style="display: flex; justify-content: space-between; max-width: 600px;">
+<div align="center">
 
   <a href="https://www.linkedin.com/in/minhaz-ahmmed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+  &nbsp;
   <a href="https://www.facebook.com/minhaz.ahmmed.98" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-
+  &nbsp;
   <a href="https://www.youtube.com/@foundationofscience9952" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
 
 </div>
+
+---
