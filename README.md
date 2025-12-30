@@ -54,9 +54,11 @@ I also like sharing technical knowledge through educational content and collabor
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
 </p>
 
+---
+
 ## Connect With Me
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; max-width: 900px;">
 
   <a href="https://www.linkedin.com/in/minhaz-ahmmed" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
