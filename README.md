@@ -56,7 +56,7 @@ I also like sharing technical knowledge through educational content and collabor
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/minhaz-ahmmed" target="_blank">
@@ -75,5 +75,23 @@ I also like sharing technical knowledge through educational content and collabor
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=minhazahmmed&show_icons=true&theme=radical&count_private=true" alt="Minhaz's GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazahmmed&layout=compact&theme=radical" alt="Most Used Languages" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazahmmed&theme=radical" alt="GitHub Streak" />
+
+</div>
 
 ---
