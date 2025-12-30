@@ -13,7 +13,7 @@ MERN Stack Web Developer | Educator
 
 ---
 
-## About Me
+## 👤 About Me
 
 I am a passionate Computer Science student with a strong interest in modern web technologies.  
 I enjoy building responsive and user-friendly web applications using the MERN stack.  
@@ -22,7 +22,7 @@ I also like sharing technical knowledge through educational content and collabor
 
 ---
 
-## Current Activities
+## 🚀 Current Activities
 
 - Exploring Next.js and modern React patterns  
 - Working on a E-Commerce based web application  
@@ -31,9 +31,9 @@ I also like sharing technical knowledge through educational content and collabor
 
 ---
 
-## Skills
+## 🛠️ Skills
 
-### Programming Languages
+### 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="45" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" />
@@ -41,14 +41,14 @@ I also like sharing technical knowledge through educational content and collabor
   <img src="https://skillicons.dev/icons?i=javascript" height="45" />
 </p>
 
-### Frontend Technologies
+### 🎨 Frontend Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
   <img src="https://skillicons.dev/icons?i=react" height="45" />
 </p>
 
-### Backend Technologies
+### ⚙️ Backend Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
@@ -56,7 +56,7 @@ I also like sharing technical knowledge through educational content and collabor
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/minhaz-ahmmed" target="_blank">
