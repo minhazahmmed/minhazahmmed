@@ -53,3 +53,19 @@ I also like sharing technical knowledge through educational content and collabor
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
 </p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/minhaz-ahmmed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+
+  <a href="https://www.facebook.com/minhaz.ahmmed.98" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  </a>
+
+  <a href="https://www.youtube.com/@foundationofscience9952" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="45" />
+  </a>
+</p>
