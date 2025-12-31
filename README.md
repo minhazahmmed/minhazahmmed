@@ -78,20 +78,16 @@ I also like sharing technical knowledge through educational content and collabor
 
 ---
 
-## 📊 GitHub Statistics
+## 📅 Contribution Activity
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=minhazahmmed&show_icons=true&theme=radical&count_private=true" alt="Minhaz's GitHub Stats" />
-  
-  <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazahmmed&layout=compact&theme=radical" alt="Most Used Languages" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhazahmmed&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazahmmed&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhazahmmed&show_icons=true&theme=radical&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhazahmmed&layout=compact&theme=radical" height="170" />
 
 </div>
-
----
