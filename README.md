@@ -15,7 +15,7 @@ MERN Stack Web Developer | Educator
 
 ## 👤 About Me
 
-> ### I am a passionate Computer Science student at IIUC with a strong interest in modern web technologies. I enjoy building responsive and user-friendly web applications using the MERN stack. Alongside development, I am actively involved in learning new frameworks and improving my problem-solving skills. I also like sharing technical knowledge through educational content and collaborative projects.
+I am a passionate Computer Science student with a strong interest in modern web technologies. I enjoy building responsive and user-friendly web applications using the MERN stack. Alongside development, I am actively involved in learning new frameworks and improving my problem-solving skills. I also like sharing technical knowledge through educational content and collaborative projects.
 
 ---
 
