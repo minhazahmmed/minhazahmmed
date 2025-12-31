@@ -25,7 +25,7 @@ I also like sharing technical knowledge through educational content and collabor
 ## 🚀 Current Activities
 
 - Exploring Next.js and modern React patterns  
-- Working on a E-Commerce based web application  
+- Building a real-time **Blood Donation Platform** to connect donors and patients.  
 - Improving backend development skills with Node.js and MongoDB  
 - Practicing clean code and project structuring for scalable applications
 
